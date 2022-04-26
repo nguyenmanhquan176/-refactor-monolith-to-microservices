@@ -2,3 +2,5 @@
 # http://git-scm.com/docs/gitignore
 
 set_env.sh
+udagram-api-feed/node_modules/
+udagram-api-user/node_modules/
